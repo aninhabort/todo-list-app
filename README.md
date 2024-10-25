@@ -32,5 +32,3 @@ A simple **To-Do List** app built with **SwiftUI** to make organization and prod
    git@github.com:aninhabort/todo-list-app.git
 2. Open the project in Xcode.
 3. Run on the simulator or a physical device.
-   
-![GitHub Org's stars](https://img.shields.io/github/stars/aninhabort?style=social)
