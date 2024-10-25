@@ -2,14 +2,6 @@
 
 A simple **To-Do List** app built with **SwiftUI** to make organization and productivity easier. This project was developed to explore the power and simplicity of SwiftUI in creating intuitive and responsive interfaces.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Technologies](#technologies)
-- [Screenshots](#screenshots)
-- [Requirements](#requirements)
-- [Getting Started](#getting-started)
-- [Next Steps](#next-steps)
-
 ## 🎯 Features
 
 - **Add tasks**: Quickly create new tasks.
