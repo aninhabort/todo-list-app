@@ -4,15 +4,15 @@ A simple **To-Do List** app built with **SwiftUI** to make organization and prod
 
 ## 🎯 Features
 
-- **Add tasks**: Quickly create new tasks.
-- **Delete tasks**: Remove completed or unwanted tasks.
-- **Mark as completed**: Visual control of completed tasks.
-- **Clean and intuitive interface**: Focused on providing a smooth, minimalist user experience.
+- `Add tasks`: Quickly create new tasks.
+- `Delete tasks`: Remove completed or unwanted tasks.
+- `Mark as completed`: Visual control of completed tasks.
+- `Clean and intuitive interface`: Focused on providing a smooth, minimalist user experience.
 
 ## 🚀 Technologies
 
-- **Swift**
-- **SwiftUI**
+- `Swift`
+- `SwiftUI`
 
 ## 📸 Screenshots
 
@@ -32,9 +32,5 @@ A simple **To-Do List** app built with **SwiftUI** to make organization and prod
    git@github.com:aninhabort/todo-list-app.git
 2. Open the project in Xcode.
 3. Run on the simulator or a physical device.
-
-## 📌 Next Steps
-
-- Add task editing functionality
-- Implement reminders through notifications
-- iCloud sync for backup
+   
+![GitHub Org's stars](https://img.shields.io/github/stars/aninhabort?style=social)
