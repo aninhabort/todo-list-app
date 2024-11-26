@@ -16,7 +16,7 @@ A simple **To-Do List** app built with **SwiftUI** to make organization and prod
 
 ## 📸 Screenshots
 
-| Main Screen | Add Task Screen |
+| Main Screen | Add Task on Screen |
 | --- | --- |
 | ![Screenshot 2024-10-25 at 11 34 19](https://github.com/user-attachments/assets/299db493-f008-4b3e-9e66-a8e1308bd929) | <img width="533" alt="Screenshot 2024-10-24 at 10 14 25" src="https://github.com/user-attachments/assets/cbf0e4c6-a9db-42f6-b996-786dbfe099bd"> |
 
